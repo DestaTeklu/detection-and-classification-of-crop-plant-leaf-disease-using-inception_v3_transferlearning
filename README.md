@@ -1,7 +1,7 @@
 #requirements:
-opencv
-pandas
-numpy
-sklearn
+opencv, 
+pandas, 
+numpy, 
+sklearn, 
 matplotlib
 
